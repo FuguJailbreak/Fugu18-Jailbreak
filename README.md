@@ -1,4 +1,5 @@
-# Fugu18
+# Fugu18 - An untethered jailbreak for iOS 18.0 - 18.3 for iPhone 16 or older.
+
 Fugu18 is a fully-untethered permasigned jailbreak for iOS 18.0 - iOS 18.3 for iPhone 16 and older phones.  
 It contains a code-signing bypass, kernel exploit, kernel PAC bypass and PPL bypass.  
 Additionally, it can be installed via Safari, i.e. a computer is not required, except for a Web Server that hosts Fugu18.  
