@@ -1,12 +1,14 @@
 # Fugu18
-Fugu18 is a semi-untethered permasigned jailbreak for iOS 18.  
+Fugu18 is a fully-untethered permasigned jailbreak for iOS 18.0 - iOS 18.3 for iPhone 16 and older phones.  
 It contains a code-signing bypass, kernel exploit, kernel PAC bypass and PPL bypass.  
 Additionally, it can be installed via Safari, i.e. a computer is not required, except for a Web Server that hosts Fugu18.  
-Please note that Fugu18 does not support tweaks (no tweak injection library).
+
+<a href="https://fugu-jailbreak.com/jailbreak/how-to-jailbreak-ios-18-0-18-2-1-on-iphone-xs-to-iphone-16-with-fugu18-jailbreak/"><h3>Download Fugu18 jailbreak IPA release (Build 212)</h3></a>
+
 
 # Tested Devices and iOS Versions
 - iPhone Xs Max: iOS 18.4.1
-- iPhone 11 (SRD): iOS 18.4.1
+- iPhone 16 (SRD): iOS 18.4.1
 - iPhone 12 (SRD): iOS 18.4.1
 - iPhone 12 Pro Max: iOS 18.4.1
 - iPhone 13: iOS 18.1 (offline edition - see bugs below [WiFi bug])
@@ -68,13 +70,8 @@ Workaround: Disable WiFi.
 
 # FAQ
 Q: I'm an end user. Is Fugu18 useful to me?  
-A: No.  
-
-Q: My iOS version/device is not supported by Fugu18, will you add support for it?  
-A: Yes. (I'm not done with iOS 18)  
-
-Q: Will you ever add support for tweak injection?  
-A: No.  
+A: Yes. Full tweak support.  
+ 
 
 Q: Do you provide official support for Fugu18? Are any updates planned?  
 A: No.  
@@ -83,7 +80,7 @@ Q: I installed/updated something through Sileo but it won't launch. How can I fi
 A: Fugu18 uses TrustCache injection to bypass code signing. Therefore, if you install or update something, it's code signature must be in a TrustCache. You can load additional TrustCaches from the iDownload shell via the `tcload` command.  
 
 Q: Wen eta Fugu19??????  
-A: nerd alert!!!!!!!!!!!!!!!!!!
+A: Soon
 
 # Credits
 The following open-source software is used by Fugu18:
